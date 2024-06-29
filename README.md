@@ -9,3 +9,4 @@ let salaries = {
   Pete: 130
 };
 ```
+Rattanon Tunwittaya
